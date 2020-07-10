@@ -1,9 +1,9 @@
 ## Clustering Neighbhorhoods in Toronto, CAN
 
-Scenario: 
-I live in Toronto, CAN (hypothetically) in the neighborhood of Humber Summit. I get a job offer from a company based in Toronto city making it nessasary for me to find a neighborhood near my new work place. I love my old neighborhood and all the ammenties it offered. So now I amd on the hunt for a neighborhood near my new workplace that is similar to my old neighborhood. How should I go about doing that? 
+##### Scenario: 
+I live in Toronto, CAN (hypothetically) in the neighborhood of Humber Summit. I get a job offer from a company based in Toronto city making it nessasary for me to find a neighborhood near my new work place. I love my old neighborhood and all the ammenties it offered. So now I am on the hunt for a neighborhood near my new workplace that is similar to my old neighborhood. How should I go about doing that? 
 
-Solution:
+##### Solution:
 Make a list of things I like about my old neighborhood. Prioratize. Lets say I love all the restaurants (: ) ). Now I have to find a neighborhood that allow easy access to similar restaurants.
 
 So the goal of this analysis is to identify and cluster similar neighborhoods in Toronto CAN based on their proximity to desirable venues such as restuarants. 
